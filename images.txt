@@ -1,3 +1,4 @@
+zabbix/zabbix-agent2:centos-6.4-latest
 jenkins/jenkins:2.452.3-lts
 
 # nginx
