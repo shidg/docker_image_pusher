@@ -1,4 +1,3 @@
-# nginx
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
@@ -7,6 +6,11 @@
 
 
 zabbix/zabbix-agent2:centos-6.4-latest
+=======
+# zabbix
+zabbix/zabbix-agent2:centos-6.4-latest
+
+# jenkins
 jenkins/jenkins:2.452.3-lts
 
 # rook-ceph
