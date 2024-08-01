@@ -5,8 +5,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-zabbix/zabbix-agent2:centos-6.4-latest
-=======
 # zabbix
 zabbix/zabbix-agent2:centos-6.4-latest
 
