@@ -1,9 +1,20 @@
-zabbix/zabbix-agent2:centos-6.4-latest
-jenkins/jenkins:2.452.3-lts
-
 # nginx
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+
+zabbix/zabbix-agent2:centos-6.4-latest
+jenkins/jenkins:2.452.3-lts
+
+# rook-ceph
+rook/ceph:v1.14.9
+quay.io/cephcsi/cephcsi:v3.11.0
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
+registry.k8s.io/sig-storage/csi-resizer:v1.10.1
+registry.k8s.io/sig-storage/csi-provisioner:v4.0.1
+registry.k8s.io/sig-storage/csi-snapshotter:v7.0.2
+registry.k8s.io/sig-storage/csi-attacher:v4.5.1
+
