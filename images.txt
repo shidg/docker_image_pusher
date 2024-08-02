@@ -7,6 +7,7 @@
 
 # zabbix
 zabbix/zabbix-agent2:centos-6.4-latest
+zabbix/zabbix-web-nginx-mysql:centos-6.4-latest
 
 # jenkins
 jenkins/jenkins:2.452.3-lts
