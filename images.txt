@@ -7,6 +7,9 @@
 # nginx
 nginx:1.26.1
 
+# nginx-vts-exporter
+sophos/nginx-vts-exporter
+
 # zabbix
 zabbix/zabbix-agent2:centos-6.4-latest
 zabbix/zabbix-web-nginx-mysql:centos-6.4-latest
