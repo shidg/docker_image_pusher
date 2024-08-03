@@ -30,3 +30,4 @@ registry.k8s.io/sig-storage/csi-attacher:v4.5.1
 prom/prometheus
 prom/alertmanager
 prom/node-exporter
+grafana/grafana:8.5.6
