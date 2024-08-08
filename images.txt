@@ -19,6 +19,7 @@ zabbix/zabbix-server-mysql:alpine-6.4-latest
 # jenkins
 jenkins/jenkins:2.452.3-lts
 jenkins/jenkins:2.462.1-lts
+cnych/jenkins:jnlp6
 
 # rook-ceph
 rook/ceph:v1.14.9
