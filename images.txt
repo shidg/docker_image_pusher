@@ -43,3 +43,6 @@ gitlab/gitlab-ce:16.10.0-ce.0
 
 # redis
 oliver006/redis_exporter:v1.62.0
+
+# MySQL
+mysql:5.7
