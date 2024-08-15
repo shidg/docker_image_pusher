@@ -6,58 +6,60 @@
 
 # nginx
 nginx:1.26.1
+nginx:1.22.1
+nginx:1.24.1
 
 # nginx-vts-exporter
-sophos/nginx-vts-exporter
-
-# zabbix
-zabbix/zabbix-agent2:centos-6.4-latest
-zabbix/zabbix-web-nginx-mysql:centos-6.4-latest
-zabbix/zabbix-server-mysql:alpine-6.2-latest
-zabbix/zabbix-server-mysql:alpine-6.4-latest
-
-# jenkins
-jenkins/jenkins:2.452.3-lts
-jenkins/jenkins:2.462.1-lts
-cnych/jenkins:jnlp6
-
-# rook-ceph
-rook/ceph:v1.14.9
-quay.io/cephcsi/cephcsi:v3.11.0
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
-registry.k8s.io/sig-storage/csi-resizer:v1.10.1
-registry.k8s.io/sig-storage/csi-provisioner:v4.0.1
-registry.k8s.io/sig-storage/csi-snapshotter:v7.0.2
-registry.k8s.io/sig-storage/csi-attacher:v4.5.1
-
-rook/ceph:v1.11.11
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.7.0
-registry.k8s.io/sig-storage/csi-resizer:v1.7.0
-registry.k8s.io/sig-storage/csi-provisioner:v3.4.0
-registry.k8s.io/sig-storage/csi-snapshotter:v6.2.1
-registry.k8s.io/sig-storage/csi-attacher:v4.1.0
-
-# prometheus
-prom/prometheus
-prom/alertmanager
-prom/node-exporter
-prom/mysqld-exporter
-grafana/grafana:8.5.6
-kibana:7.17.10
-
-# gitlab
-gitlab/gitlab-ce:16.10.0-ce.0
-
-# redis
-oliver006/redis_exporter:v1.62.0
-
-# MySQL
-mysql:5.7
-
-# cert-manager
-# quay.io/jetstack/cert-manager-controller:v1.12.13
-# quay.io/jetstack/cert-manager-cainjector:v1.12.13
-# quay.io/jetstack/cert-manager-webhook:v1.12.13
-
-# istio
-docker.io/istio/proxyv2:1.20.2
+#sophos/nginx-vts-exporter
+#
+## zabbix
+#zabbix/zabbix-agent2:centos-6.4-latest
+#zabbix/zabbix-web-nginx-mysql:centos-6.4-latest
+#zabbix/zabbix-server-mysql:alpine-6.2-latest
+#zabbix/zabbix-server-mysql:alpine-6.4-latest
+#
+## jenkins
+#jenkins/jenkins:2.452.3-lts
+#jenkins/jenkins:2.462.1-lts
+#cnych/jenkins:jnlp6
+#
+## rook-ceph
+#rook/ceph:v1.14.9
+#quay.io/cephcsi/cephcsi:v3.11.0
+#registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
+#registry.k8s.io/sig-storage/csi-resizer:v1.10.1
+#registry.k8s.io/sig-storage/csi-provisioner:v4.0.1
+#registry.k8s.io/sig-storage/csi-snapshotter:v7.0.2
+#registry.k8s.io/sig-storage/csi-attacher:v4.5.1
+#
+#rook/ceph:v1.11.11
+#registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.7.0
+#registry.k8s.io/sig-storage/csi-resizer:v1.7.0
+#registry.k8s.io/sig-storage/csi-provisioner:v3.4.0
+#registry.k8s.io/sig-storage/csi-snapshotter:v6.2.1
+#registry.k8s.io/sig-storage/csi-attacher:v4.1.0
+#
+## prometheus
+#prom/prometheus
+#prom/alertmanager
+#prom/node-exporter
+#prom/mysqld-exporter
+#grafana/grafana:8.5.6
+#kibana:7.17.10
+#
+## gitlab
+#gitlab/gitlab-ce:16.10.0-ce.0
+#
+## redis
+#oliver006/redis_exporter:v1.62.0
+#
+## MySQL
+#mysql:5.7
+#
+## cert-manager
+## quay.io/jetstack/cert-manager-controller:v1.12.13
+## quay.io/jetstack/cert-manager-cainjector:v1.12.13
+## quay.io/jetstack/cert-manager-webhook:v1.12.13
+#
+## istio
+#docker.io/istio/proxyv2:1.20.2
