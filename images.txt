@@ -4,10 +4,13 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+# busybox
+busybox
+
 # nginx
 #nginx:1.26.1
 #nginx:1.22.1
-nginx:1.24.0
+#nginx:1.24.0
 
 # nginx-vts-exporter
 #sophos/nginx-vts-exporter
