@@ -5,15 +5,16 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # busybox
-busybox
+#busybox
 
 # nginx
 #nginx:1.26.1
 #nginx:1.22.1
 #nginx:1.24.0
 
-# nginx-vts-exporter
+# nginx-exporter
 #sophos/nginx-vts-exporter
+nginx/nginx-prometheus-exporter:1.3.0
 #
 ## zabbix
 #zabbix/zabbix-agent2:centos-6.4-latest
