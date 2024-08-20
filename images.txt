@@ -14,7 +14,7 @@
 
 # nginx-exporter
 #sophos/nginx-vts-exporter
-nginx/nginx-prometheus-exporter:1.3.0
+#nginx/nginx-prometheus-exporter:1.3.0
 #
 ## zabbix
 #zabbix/zabbix-agent2:centos-6.4-latest
@@ -67,3 +67,6 @@ nginx/nginx-prometheus-exporter:1.3.0
 #
 ## istio
 #docker.io/istio/proxyv2:1.20.2
+
+# nacos
+nacos/nacos-server:v2.2.3
