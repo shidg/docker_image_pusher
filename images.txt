@@ -10,6 +10,7 @@
 # nginx
 #nginx:1.26.1
 #nginx:1.22.1
+nginx:1.23.1
 #nginx:1.24.0
 
 # nginx-exporter
@@ -69,4 +70,4 @@
 #docker.io/istio/proxyv2:1.20.2
 
 # nacos
-nacos/nacos-server:v2.2.3
+#nacos/nacos-server:v2.2.3
