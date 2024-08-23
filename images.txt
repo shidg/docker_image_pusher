@@ -30,6 +30,7 @@
 #
 ## rook-ceph
 #rook/ceph:v1.14.9
+quay.io/ceph/ceph:v18.2.4
 #quay.io/cephcsi/cephcsi:v3.11.0
 #registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
 #registry.k8s.io/sig-storage/csi-resizer:v1.10.1
@@ -73,6 +74,6 @@
 #nacos/nacos-server:v2.2.3
 
 # calico
-docker.io/calico/kube-controllers:v3.28.1
-docker.io/calico/cni:v3.28.1
-docker.io/calico/node:v3.28.1
+#docker.io/calico/kube-controllers:v3.28.1
+#docker.io/calico/cni:v3.28.1
+#docker.io/calico/node:v3.28.1
