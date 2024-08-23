@@ -10,7 +10,7 @@
 # nginx
 #nginx:1.26.1
 #nginx:1.22.1
-nginx:1.23.1
+#nginx:1.23.1
 #nginx:1.24.0
 
 # nginx-exporter
@@ -71,3 +71,8 @@ nginx:1.23.1
 
 # nacos
 #nacos/nacos-server:v2.2.3
+
+# calico
+docker.io/calico/kube-controllers:master
+docker.io/calico/cni:master
+docker.io/calico/node:master
