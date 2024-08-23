@@ -73,6 +73,6 @@
 #nacos/nacos-server:v2.2.3
 
 # calico
-docker.io/calico/kube-controllers:3.28.1
-docker.io/calico/cni:3.28.1
-docker.io/calico/node:3.28.1
+docker.io/calico/kube-controllers:v3.28.1
+docker.io/calico/cni:v3.28.1
+docker.io/calico/node:v3.28.1
