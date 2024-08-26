@@ -30,7 +30,7 @@
 #
 ## rook-ceph
 #rook/ceph:v1.14.9
-quay.io/ceph/ceph:v18.2.4
+#quay.io/ceph/ceph:v18.2.4
 #quay.io/cephcsi/cephcsi:v3.11.0
 #registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
 #registry.k8s.io/sig-storage/csi-resizer:v1.10.1
@@ -77,3 +77,12 @@ quay.io/ceph/ceph:v18.2.4
 #docker.io/calico/kube-controllers:v3.28.1
 #docker.io/calico/cni:v3.28.1
 #docker.io/calico/node:v3.28.1
+
+# k8s
+registry.k8s.io/kube-apiserver:v1.30.1
+registry.k8s.io/kube-controller-manager:v1.30.1
+registry.k8s.io/kube-scheduler:v1.30.1
+registry.k8s.io/kube-proxy:v1.30.1
+registry.k8s.io/coredns/coredns:v1.11.1
+registry.k8s.io/pause:3.9
+registry.k8s.io/etcd:3.5.12-0
