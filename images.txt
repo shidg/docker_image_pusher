@@ -27,7 +27,9 @@
 #jenkins/jenkins:2.452.3-lts
 #jenkins/jenkins:2.462.1-lts
 #cnych/jenkins:jnlp6
-#
+jenkins/jnlp-slave:alpine
+
+
 ## rook-ceph
 #rook/ceph:v1.14.9
 #quay.io/ceph/ceph:v18.2.4
@@ -51,7 +53,7 @@
 #prom/node-exporter
 #prom/mysqld-exporter
 #grafana/grafana:8.5.6
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+#registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 
 
 #kibana:7.17.10
