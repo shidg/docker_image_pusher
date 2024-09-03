@@ -28,8 +28,10 @@
 #jenkins/jenkins:2.462.1-lts
 #cnych/jenkins:jnlp6
 #jenkins/jnlp-slave:alpine
-jenkins/inbound-agent:latest
+#jenkins/inbound-agent:latest
 
+# maven
+maven:3.6.1-jdk-8-alpine
 
 ## rook-ceph
 #rook/ceph:v1.14.9
