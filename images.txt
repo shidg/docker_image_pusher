@@ -99,4 +99,5 @@
 
 # nfs
 #quay.io/external_storage/nfs-client-provisioner
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
