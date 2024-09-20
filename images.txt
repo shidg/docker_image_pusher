@@ -26,7 +26,7 @@
 ## jenkins
 #jenkins/jenkins:2.452.3-lts
 #jenkins/jenkins:2.462.1-lts
-jenkins/jenkins:2.462.2-lts
+#jenkins/jenkins:2.462.2-lts
 #cnych/jenkins:jnlp6
 #jenkins/jnlp-slave:alpine
 #jenkins/inbound-agent:latest
@@ -96,3 +96,6 @@ jenkins/jenkins:2.462.2-lts
 #registry.k8s.io/coredns/coredns:v1.11.1
 #registry.k8s.io/pause:3.9
 #registry.k8s.io/etcd:3.5.12-0
+
+# nfs
+quay.io/external_storage/nfs-client-provisioner:latest
