@@ -98,4 +98,4 @@
 #registry.k8s.io/etcd:3.5.12-0
 
 # nfs
-quay.io/external_storage/nfs-client-provisioner:latest
+quay.io/external_storage/nfs-client-provisioner
