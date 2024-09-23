@@ -103,3 +103,5 @@ elasticsearch:7.17.10
 # nfs
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
+# contour
+ghcr.io/projectcontour/contour:v1.22.6
