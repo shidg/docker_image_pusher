@@ -101,7 +101,8 @@ elasticsearch:7.17.10
 #registry.k8s.io/etcd:3.5.12-0
 
 # nfs
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 # contour
-ghcr.io/projectcontour/contour:v1.22.6
+#ghcr.io/projectcontour/contour:v1.22.6
+docker.io/envoyproxy/envoy:v1.23.7
