@@ -82,6 +82,7 @@ elasticsearch:7.17.10
 #
 ## istio
 #docker.io/istio/proxyv2:1.20.2
+docker.io/istio/pilot:1.23.2
 
 # nacos
 #nacos/nacos-server:v2.2.3
