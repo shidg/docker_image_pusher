@@ -74,7 +74,10 @@ elasticsearch:7.17.10
 #
 ## MySQL
 #mysql:5.7
-#
+
+## php
+webdevops/php-nginx:7.4-alpine
+
 ## cert-manager
 ## quay.io/jetstack/cert-manager-controller:v1.12.13
 ## quay.io/jetstack/cert-manager-cainjector:v1.12.13
@@ -83,7 +86,7 @@ elasticsearch:7.17.10
 ## istio
 #docker.io/istio/proxyv2:1.20.2
 #docker.io/istio/pilot:1.23.2
-docker.io/istio/proxyv2:1.23.2
+#docker.io/istio/proxyv2:1.23.2
 # nacos
 #nacos/nacos-server:v2.2.3
 
@@ -107,5 +110,5 @@ docker.io/istio/proxyv2:1.23.2
 # contour
 #ghcr.io/projectcontour/contour:v1.22.6
 #docker.io/envoyproxy/envoy:v1.23.7
-ghcr.io/projectcontour/contour:v1.30.0
-docker.io/envoyproxy/envoy:v1.31.0
+#ghcr.io/projectcontour/contour:v1.30.0
+#docker.io/envoyproxy/envoy:v1.31.0
