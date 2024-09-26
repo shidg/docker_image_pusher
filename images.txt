@@ -112,3 +112,6 @@ webdevops/php-nginx:7.4-alpine
 #docker.io/envoyproxy/envoy:v1.23.7
 #ghcr.io/projectcontour/contour:v1.30.0
 #docker.io/envoyproxy/envoy:v1.31.0
+
+# metrics-server
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
