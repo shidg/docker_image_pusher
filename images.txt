@@ -60,16 +60,18 @@
 #prom/mysqld-exporter
 #grafana/grafana:8.5.6
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
-bitnami/blackbox-exporter:0.25.0
+#bitnami/blackbox-exporter:0.25.0
 
 
 # elk
 #kibana:7.17.10
-elasticsearch:7.17.10
+#elasticsearch:7.17.10
 
 
 ## gitlab
 #gitlab/gitlab-ce:16.10.0-ce.0
+gitlab/gitlab-ce:17.3.4-ce.0
+gitlab/gitlab-ce:17.4.1-ce.0
 #
 ## redis
 #oliver006/redis_exporter:v1.62.0
@@ -78,7 +80,7 @@ elasticsearch:7.17.10
 #mysql:5.7
 
 ## php
-webdevops/php-nginx:7.4-alpine
+#webdevops/php-nginx:7.4-alpine
 
 ## cert-manager
 ## quay.io/jetstack/cert-manager-controller:v1.12.13
@@ -128,4 +130,4 @@ webdevops/php-nginx:7.4-alpine
 #docker.io/kubernetesui/dashboard-metrics-scraper:1.1.1
 
 # kuboard
-eipwork/kuboard:v3.5.2.7
+#eipwork/kuboard:v3.5.2.7
