@@ -70,7 +70,7 @@
 
 ## gitlab
 #gitlab/gitlab-ce:16.10.0-ce.0
-gitlab/gitlab-ce:16.11.10-ce.0
+#gitlab/gitlab-ce:16.11.10-ce.0
 #gitlab/gitlab-ce:17.3.4-ce.0
 #gitlab/gitlab-ce:17.4.1-ce.0
 #
@@ -92,6 +92,9 @@ gitlab/gitlab-ce:16.11.10-ce.0
 #docker.io/istio/proxyv2:1.20.2
 #docker.io/istio/pilot:1.23.2
 #docker.io/istio/proxyv2:1.23.2
+quay.io/kiali/kiali:v1.76
+
+
 # nacos
 #nacos/nacos-server:v2.2.3
 
