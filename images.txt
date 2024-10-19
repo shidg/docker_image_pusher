@@ -66,6 +66,7 @@
 # elk
 #kibana:7.17.10
 #elasticsearch:7.17.10
+mobz/elasticsearch-head:5-alpine
 
 
 ## gitlab
@@ -73,7 +74,7 @@
 #gitlab/gitlab-ce:16.11.10-ce.0
 #gitlab/gitlab-ce:17.3.4-ce.0
 #gitlab/gitlab-ce:17.4.1-ce.0
-gitlab/gitlab-ce:17.4.2-ce.0
+#gitlab/gitlab-ce:17.4.2-ce.0
 #
 ## redis
 #oliver006/redis_exporter:v1.62.0
