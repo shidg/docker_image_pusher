@@ -65,8 +65,9 @@
 
 # elk
 #kibana:7.17.10
+kibana:7.17.24
 #elasticsearch:7.17.10
-mobz/elasticsearch-head:5-alpine
+#mobz/elasticsearch-head:5-alpine
 
 
 ## gitlab
