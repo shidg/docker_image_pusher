@@ -66,11 +66,11 @@
 # elk
 #kibana:7.17.10
 #kibana:7.17.24
-kibana:7.17.25
+#kibana:7.17.25
 #elasticsearch:7.17.10
-elasticsearch:7.17.25
-logstash:7.17.25
-filebeat:7.17.25
+#elasticsearch:7.17.25
+#logstash:7.17.25
+elastic/filebeat:7.17.25
 #mobz/elasticsearch-head:5-alpine
 
 
