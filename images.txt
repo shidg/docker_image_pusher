@@ -83,6 +83,11 @@
 #
 ## redis
 #oliver006/redis_exporter:v1.62.0
+
+redis:7.2.6
+
+
+
 #
 ## MySQL
 #mysql:5.7
@@ -143,4 +148,5 @@ quay.io/kiali/kiali:v1.76
 # kuboard
 #eipwork/kuboard:v3.5.2.7
 
-wiznote/wizserver
+#wiznote/wizserver
+
