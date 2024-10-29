@@ -61,6 +61,7 @@
 #grafana/grafana:8.5.6
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 #bitnami/blackbox-exporter:0.25.0
+quay.io/prometheus/blackbox-exporter
 
 
 # elk
@@ -83,8 +84,7 @@
 #
 ## redis
 #oliver006/redis_exporter:v1.62.0
-
-redis:7.2.6
+#redis:7.2.6
 
 
 
