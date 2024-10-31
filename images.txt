@@ -150,3 +150,8 @@ quay.io/kiali/kiali:v1.76
 
 #wiznote/wizserver
 
+# kafka
+edenhill/kcat:1.7.1
+confluentinc/cp-zookeeper:5.2.1
+confluentinc/cp-enterprise-kafka:5.2.1
+confluentinc/cp-kafkacat
