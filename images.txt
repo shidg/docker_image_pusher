@@ -82,7 +82,7 @@ bitnami/blackbox-exporter:0.25.0
 #gitlab/gitlab-ce:17.3.4-ce.0
 #gitlab/gitlab-ce:17.4.1-ce.0
 #gitlab/gitlab-ce:17.4.2-ce.0
-gitlab/gitlab-ce:17.5.2-ce.0
+#gitlab/gitlab-ce:17.5.2-ce.0
 #
 ## redis
 #oliver006/redis_exporter:v1.62.0
@@ -136,6 +136,7 @@ gitlab/gitlab-ce:17.5.2-ce.0
 # k8s
 # metrics-server
 #registry.k8s.io/metrics-server/metrics-server:v0.7.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
 # kubernetes-dashboard
 #kubernetesui/dashboard:v2.7.0
