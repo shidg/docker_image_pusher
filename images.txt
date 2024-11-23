@@ -176,3 +176,5 @@ registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #docker.io/calico/node:v3.25.0
 #docker.io/calico/kube-controllers:v3.25.0
 
+# mall-swarm
+mall/mall-gateway:1.0-SNAPSHOT
