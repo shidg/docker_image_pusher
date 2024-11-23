@@ -177,4 +177,9 @@ registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #docker.io/calico/kube-controllers:v3.25.0
 
 # mall-swarm
-mall/mall-gateway:1.0-SNAPSHOT
+macrodocker/mall-gateway:1.0-SNAPSHOT
+macrodocker/mall-auth:1.0-SNAPSHOT
+macrodocker/mall-monitor:1.0-SNAPSHOT
+macrodocker/mall-admin:1.0-SNAPSHOT
+macrodocker/mall-portal:1.0-SNAPSHOT
+macrodocker/mall-search:1.0-SNAPSHOT
