@@ -183,7 +183,16 @@ registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #macrodocker/mall-admin:1.0-SNAPSHOT
 #macrodocker/mall-portal:1.0-SNAPSHOT
 #macrodocker/mall-search:1.0-SNAPSHOT
-mongo:4.2.5
-redis:5
-rabbitmq:3.7.15-management
+#mongo:4.2.5
+#redis:5
+#rabbitmq:3.7.15-management
+
+# skywalking
+apache/skywalking-oap-server
+apache/skywalking-ui
+apache/skywalking-satellite
+apache/skywalking-swck
+apache/skywalking-java-agent
+
+
 
