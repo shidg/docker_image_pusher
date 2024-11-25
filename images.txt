@@ -191,7 +191,6 @@ registry.k8s.io/metrics-server/metrics-server:v0.7.2
 apache/skywalking-oap-server
 apache/skywalking-ui
 #apache/skywalking-satellite
-apache/skywalking-satellite
 apache/skywalking-swck
 apache/skywalking-java-agent
 
