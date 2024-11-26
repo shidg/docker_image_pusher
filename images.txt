@@ -188,9 +188,9 @@
 #rabbitmq:3.7.15-management
 
 # skywalking
-#apache/skywalking-oap-server
-#apache/skywalking-ui
-#apache/skywalking-swck
+apache/skywalking-oap-server:10.1.0
+apache/skywalking-ui:10.1.0
+apache/skywalking-swck:v0.9.0
 apache/skywalking-java-agent:9.3.0-java8
 apache/skywalking-satellite:v1.2.0
 
