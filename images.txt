@@ -13,6 +13,23 @@
 #nginx:1.23.1
 #nginx:1.24.0
 
+# tomcat
+tomcat:8.5.100-jdk17
+tomcat:8.5.100-jdk8
+tomcat:9.0.97-jdk8
+tomcat:10.1.31-jdk21
+tomcat:11.0.0-M20-jdk21
+
+# apache
+httpd:2.4.62
+
+# php
+webdevops/php-apache:8.2-alpine
+webdevops/php-nginx:8.2-alpine
+webdevops/php:8.2-alpine
+
+
+
 # nginx-exporter
 #sophos/nginx-vts-exporter
 #nginx/nginx-prometheus-exporter:1.3.0
@@ -188,10 +205,10 @@
 #rabbitmq:3.7.15-management
 
 # skywalking
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-ui:10.1.0
-apache/skywalking-swck:v0.9.0
-apache/skywalking-java-agent:9.3.0-java8
-apache/skywalking-satellite:v1.2.0
+#apache/skywalking-oap-server:10.1.0
+#apache/skywalking-ui:10.1.0
+#apache/skywalking-swck:v0.9.0
+#apache/skywalking-java-agent:9.3.0-java8
+#apache/skywalking-satellite:v1.2.0
 
 
