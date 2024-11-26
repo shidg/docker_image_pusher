@@ -212,4 +212,5 @@ earthly/dind:ubuntu-24.04-docker-27.3.1-1
 #apache/skywalking-java-agent:9.3.0-java8
 #apache/skywalking-satellite:v1.2.0
 
-
+# minio
+quay.io/minio/minio
