@@ -191,7 +191,7 @@
 #apache/skywalking-oap-server
 #apache/skywalking-ui
 #apache/skywalking-swck
-apache/skywalking-java-agent
-apache/skywalking-satellite
+apache/skywalking-java-agent:9.3.0-java8
+apache/skywalking-satellite:v1.2.0
 
 
