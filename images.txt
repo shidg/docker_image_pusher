@@ -27,7 +27,7 @@
 #jenkins/jenkins:2.452.3-lts
 #jenkins/jenkins:2.462.1-lts
 #jenkins/jenkins:2.462.2-lts
-jenkins/jenkins:2.479.1-lts
+#jenkins/jenkins:2.479.1-lts
 #cnych/jenkins:jnlp6
 #jenkins/jnlp-slave:alpine
 #jenkins/inbound-agent:latest
@@ -61,7 +61,7 @@ jenkins/jenkins:2.479.1-lts
 #prom/mysqld-exporter
 #grafana/grafana:8.5.6
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
-bitnami/blackbox-exporter:0.25.0
+#bitnami/blackbox-exporter:0.25.0
 #quay.io/prometheus/blackbox-exporter
 
 
@@ -136,7 +136,7 @@ bitnami/blackbox-exporter:0.25.0
 # k8s
 # metrics-server
 #registry.k8s.io/metrics-server/metrics-server:v0.7.1
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
+#registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
 # kubernetes-dashboard
 #kubernetesui/dashboard:v2.7.0
@@ -188,11 +188,10 @@ registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #rabbitmq:3.7.15-management
 
 # skywalking
-apache/skywalking-oap-server
-apache/skywalking-ui
-#apache/skywalking-satellite
-apache/skywalking-swck
+#apache/skywalking-oap-server
+#apache/skywalking-ui
+#apache/skywalking-swck
 apache/skywalking-java-agent
-
+apache/skywalking-satellite
 
 
