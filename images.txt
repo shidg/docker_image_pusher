@@ -48,7 +48,8 @@ webdevops/php:8.2-alpine
 #cnych/jenkins:jnlp6
 #jenkins/jnlp-slave:alpine
 #jenkins/inbound-agent:latest
-#docker:dind
+docker:dind
+earthly/dind:ubuntu-24.04-docker-27.3.1-1
 # java
 #openjdk:8-alpine
 #maven:3.6.1-jdk-8-alpine
