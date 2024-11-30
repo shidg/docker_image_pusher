@@ -110,7 +110,8 @@ earthly/dind:ubuntu-24.04-docker-27.3.1-1
 
 #
 ## MySQL
-mysql:5.7
+#mysql:5.7
+mysql:5.7.6
 
 ## php
 #webdevops/php-nginx:7.4-alpine
