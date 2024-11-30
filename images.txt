@@ -104,7 +104,7 @@ earthly/dind:ubuntu-24.04-docker-27.3.1-1
 #
 ## redis
 #oliver006/redis_exporter:v1.62.0
-redis:5.7.44
+redis:7.4.1-alpine
 
 
 
