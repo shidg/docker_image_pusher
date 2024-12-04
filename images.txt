@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 docker.io/istio/pilot:1.24.1
+docker.io/istio/proxyv2:1.24.1
