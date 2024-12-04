@@ -3,5 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
-centos:centos7.9.2009
+osixia/openldap:1.4.0
+osixia/phpldapadmin:0.9.0
