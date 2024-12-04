@@ -4,4 +4,4 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-alpine:latest
+docker.io/istio/pilot:1.24.1
