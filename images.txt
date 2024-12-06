@@ -4,14 +4,16 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-# docker-desktop-for-mac
-registry.k8s.io/kube-apiserver:v1.28.2
-registry.k8s.io/kube-scheduler:v1.28.2
-registry.k8s.io/kube-controller-manager:v1.28.2
-registry.k8s.io/kube-proxy:v1.28.2
-registry.k8s.io/etcd:3.5.9-0
-registry.k8s.io/etcd:3.5.7-0
-registry.k8s.io/coredns/coredns:v1.10.1
-registry.k8s.io/pause:3.9
-docker/desktop-storage-provisioner:v2.0
-hubproxy.docker.internal:5555/docker/desktop-kubernetes:kubernetes-v1.28.2-cni-v1.3.0-critools-v1.28.0-cri-dockerd-v0.3.4-1-debian
+
+kube-apiserver:v1.22.17
+kube-proxy:v1.22.17
+kube-controller-manager:v1.22.17
+kube-scheduler:v1.22.17
+coredns::v1.8.4
+pause:3.5
+etcd:3.5.6-0
+kube-controllers:v3.25.0
+node:v3.25.0
+cni:v3.25.0
+flannel:v0.26.1
+flannel-cni-plugin:v1.5.1-flannel2
