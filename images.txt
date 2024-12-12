@@ -4,16 +4,4 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
-kube-apiserver:v1.22.17
-kube-proxy:v1.22.17
-kube-controller-manager:v1.22.17
-kube-scheduler:v1.22.17
-coredns::v1.8.4
-pause:3.5
-etcd:3.5.6-0
-kube-controllers:v3.25.0
-node:v3.25.0
-cni:v3.25.0
-flannel:v0.26.1
-flannel-cni-plugin:v1.5.1-flannel2
+eipwork/kuboard:v4
