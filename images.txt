@@ -3,5 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
-chainguard/prometheus-adapter:sha256-dcfd1b6cbd420b4b4aad432aadfc606bb13a3b7f5c5ada0713583dc8249bf8c5.sig
+gitlab/gitlab-ce:17.5.4-ce.0
+gitlab/gitlab-ce:17.7.0-ce.0
