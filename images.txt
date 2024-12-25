@@ -3,4 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-gitlab/gitlab-ee:17.7.0-ee.0
+
+jenkins/jenkins:2.479.2-lts
