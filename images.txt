@@ -3,5 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
-jenkins/jenkins:2.479.2-lts
+quay.io/metallb/controller:main
+quay.io/metallb/speaker:main
