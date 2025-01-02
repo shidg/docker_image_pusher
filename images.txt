@@ -3,5 +3,10 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+<<<<<<< HEAD
 quay.io/metallb/controller:main
 quay.io/metallb/speaker:main
+=======
+
+ghcr.io/screego/server:1.11.2
+>>>>>>> adbcc37a6178428c2c5c56f2cad21ed147b7da24
