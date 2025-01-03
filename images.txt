@@ -3,5 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/istio/pilot:1.24.2
-docker.io/istio/proxyv2:1.24.2
+ghcr.io/projectcontour/contour:v1.22.6
+docker.io/envoyproxy/envoy:v1.23.7
