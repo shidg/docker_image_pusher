@@ -3,5 +3,4 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-quay.io/metallb/controller:main
-quay.io/metallb/speaker:main
+docker.io/istio/pilot:1.24.2
