@@ -3,5 +3,4 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/projectcontour/contour:v1.22.6
-docker.io/envoyproxy/envoy:v1.23.7
+kubeoperator/webkubectl
