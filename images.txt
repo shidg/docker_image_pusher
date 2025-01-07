@@ -3,5 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-irrorgooglecontainers/defaultbackend-amd64:1.4
+mirrorgooglecontainers/defaultbackend-amd64:1.4
 prom/prometheus:v2.39.1
