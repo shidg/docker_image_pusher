@@ -3,4 +3,4 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-elasticsearch:7.6.2
+wangbinxingkong/fast:latest
