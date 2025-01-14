@@ -3,4 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-wangbinxingkong/fast:latest
+
+prom/prometheus:v3.1.0
