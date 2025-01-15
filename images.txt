@@ -3,5 +3,4 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
-prom/prometheus:v3.1.0
+thanosio/thanos:v0.37.2
