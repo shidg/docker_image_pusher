@@ -3,4 +3,4 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-thanosio/thanos:v0.37.2
+consul:1.15.4
