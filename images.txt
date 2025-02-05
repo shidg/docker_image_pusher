@@ -3,4 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-consul:1.15.4
+
+gitlab/gitlab-ce:1.18.1
