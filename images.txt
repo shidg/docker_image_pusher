@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 registry.k8s.io/ingress-nginx/controller:v1.6.4@sha256:15be4666c53052484dd2992efacf2f50ea77a78ae8aa21ccd91af6baaa7ea22f
+registry.k8s.io/ingress-nginx/controller:v1.6.3@sha256:b92667e0afde1103b736e6a3f00dd75ae66eec4e71827d19f19f471699e909d2
