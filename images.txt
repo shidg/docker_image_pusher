@@ -4,4 +4,5 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+
+webdevops/php-nginx:7.4-alpine
