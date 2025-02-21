@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-webdevops/php-nginx:7.4-alpine
+centos:centos7.9.2009
