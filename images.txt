@@ -4,5 +4,4 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
-centos:centos7.9.2009
+mongo:5.0.31
