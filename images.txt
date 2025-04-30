@@ -3,4 +3,4 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-zabbix-server-mysql:centos-6.4-latest
+zabbix/zabbix-server-mysql:centos-6.4-latest
