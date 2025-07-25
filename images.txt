@@ -4,3 +4,4 @@
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=arm64 mysql:8.0
+nginx:1.26.1
