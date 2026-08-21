@@ -3,4 +3,5 @@
 
 # 指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 zabbix/zabbix-server-mysql:6.4-centos-latest
+--platform=linux/arm64 langgenius/dify-agent-local-sandbox:1.16.1
+--platform=linux/arm64 langgenius/dify-agent-backend:1.16.1
