@@ -1,5 +1,4 @@
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
-
-bitnamilegacy/redis:7.0.11-debian-11-r12
+cr.weaviate.io/semitechnologies/weaviate:1.27.27
