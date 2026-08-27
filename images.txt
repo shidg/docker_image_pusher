@@ -1,4 +1,6 @@
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
-minio/minio:RELEASE.2025-04-08T15-41-24Z
+docker.io/grafana/loki-canary:3.7.6"
+docker.io/kiwigrid/k8s-sidecar:2.10.1
+docker.io/grafana/loki:3.7.6
